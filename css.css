@@ -1,0 +1,18 @@
+h1{
+    font-weight: bold;
+    text-align: center;
+}
+h2{
+    font-weight: bold;
+    text-align: center;
+}
+#center{
+    text-align: center;
+}
+br{
+    display: block;
+}
+p{
+    font-weight: bold;
+    text-align: center;
+}
